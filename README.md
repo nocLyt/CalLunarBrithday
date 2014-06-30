@@ -5,7 +5,7 @@ CalLunarBrithday
 
 声明
 ----------------
-引用了 pyzh[http://code.google.com/p/pyzh] 项目。  
+引用了 [pyzh](http://code.google.com/p/pyzh) 项目。  
 
 执行
 ----------------
